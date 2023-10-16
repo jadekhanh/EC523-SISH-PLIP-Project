@@ -4,6 +4,8 @@
 Phuong Tran, Susan Zhang, Daniellia Sumigar, Priscila Rubio
 
 ## Tasks
+To assess the comparative performance of self-supervised image search for histology (SISH) and pathology language-image pretraining (PLIP), their effectiveness within the context of zero-shot classification will be evaluated. If SISH proves to outperform PLIP, a strategic replacement of the image encoder in PLIP will be performed with the image encoder from SISH. However, should PLIP demonstrate better results, further experimentation will be undertaken to enhance the zero-shot classification of “Rare Disease Subtype Retrieval”.
+
 
 ## Dataset
 The diagnostic whole-slide data from TCGA, along with their respective labels, can be accessed through the National Institutes of Health (NIH) Genomic Data Commons at the following link: https://portal.gdc.cancer.gov
