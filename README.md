@@ -1,4 +1,4 @@
-### Comparative Analysis of Self Supervised Image Search for Histology and Pathology Language-Image Pretraining for Zero-Shot Classification in Rare Disease Subtype Retrieval
+# Comparative Analysis of Self Supervised Image Search for Histology and Pathology Language-Image Pretraining for Zero-Shot Classification in Rare Disease Subtype Retrieval
 
 ## Collaborators
 Phuong Tran, Susan Zhang, Daniellia Sumigar, Priscila Rubio
