@@ -6,7 +6,7 @@ Phuong Tran, Susan Zhang, Daniellia Sumigar, Priscila Rubio
 ## Tasks
 
 ## Dataset
-The diagnostic whole-slide data from TCGA, along with their respective labels, can be accessed through the National Institutes of Health (NIH) Genomic Data Commons at the following link: https://portal.gdc.cancer.gov. 
+The diagnostic whole-slide data from TCGA, along with their respective labels, can be accessed through the National Institutes of Health (NIH) Genomic Data Commons at the following link: https://portal.gdc.cancer.gov
 
 ## References
 1. Chen, C., Lu, M.Y., Williamson, D.F.K. et al. Fast and scalable search of whole-slide images via self-supervised deep learning. Nat. Biomed. Eng 6, 1420–1434 (2022). https://doi.org/10.1038/s41551-022-00929-8
