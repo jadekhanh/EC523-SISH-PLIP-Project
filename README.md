@@ -1,7 +1,7 @@
 # Comparative Analysis of Self Supervised Image Search for Histology and Pathology Language-Image Pretraining for Zero-Shot Classification in Rare Disease Subtype Retrieval
 
 ## Collaborators
-Phuong Tran, Susan Zhang, Daniellia Sumigar, Priscila Rubio
+Phuong Khanh Tran, Susan Zhang, Daniellia Sumigar, Priscila Rubio
 
 ## Tasks
 To assess the comparative performance of self-supervised image search for histology (SISH) and pathology language-image pretraining (PLIP), their effectiveness within the context of zero-shot classification will be evaluated. If SISH proves to outperform PLIP, a strategic replacement of the image encoder in PLIP will be performed with the image encoder from SISH. However, should PLIP demonstrate better results, further experimentation will be undertaken to enhance the zero-shot classification of “Rare Disease Subtype Retrieval”.
