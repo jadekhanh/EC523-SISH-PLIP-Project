@@ -21,6 +21,6 @@ To assess the comparative performance of self-supervised image search for histol
 4. Kalra, S. et al. Pan-cancer diagnostic consensus through searching archival histopathology images using artificial intelligence. npj Dig. Med. 3, 31 (2020).
 5. Kalra, S. et al. Yottixel–an image search engine for large archives of histopathology whole slide images. Med. Image Anal. 65, 101757 (2020).
 
-## GITHUB
+## Github
 * SISH: https://github.com/mahmoodlab/SISH
 * PLIP: https://huggingface.co/spaces/vinid/webplip
