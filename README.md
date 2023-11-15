@@ -8,7 +8,11 @@ To assess the comparative performance of self-supervised image search for histol
 
 
 ## Dataset
-The diagnostic whole-slide data from TCGA, along with their respective labels, can be accessed through the National Institutes of Health (NIH) Genomic Data Commons at the following link: https://portal.gdc.cancer.gov
+* TCGA: https://portal.gdc.cancer.gov
+* Kather colon: https://zenodo.org/record/1214456 
+* PanNuke: https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke 
+* DigestPath: https://digestpath2019.grand-challenge.org/ 
+* WSSS4LUAD: https://wsss4luad.grand-challenge.org/ 
 
 ## References
 1. Chen, C., Lu, M.Y., Williamson, D.F.K. et al. Fast and scalable search of whole-slide images via self-supervised deep learning. Nat. Biomed. Eng 6, 1420–1434 (2022). https://doi.org/10.1038/s41551-022-00929-8
