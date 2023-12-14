@@ -44,5 +44,4 @@ pbar.close()
 
 df = pd.concat(dfs_list, ignore_index=True)
 
-# Save the DataFrame to a CSV file
 df.to_csv("output_predictions.csv", index=False)
