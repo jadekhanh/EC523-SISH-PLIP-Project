@@ -41,7 +41,7 @@ The evaluation was conducted on a comprehensive dataset of histological images f
 13. C. L. Srinidhi and A. L. Martel, “Improving Self-Supervised Learning with Hardness-Aware Dynamic Curriculum Learning: An Application to Digital Pathology,” arXiv.org, Oct. 05, 2021. https://arxiv.org/abs/2108.07183.
 14. X. Wang et al., “Transformer-Based Unsupervised Contrastive Learning for Histopathological Image Classification,” Medical Image Analysis, vol. 81, p. 102559, Oct. 2022, doi: https://doi.org/10.1016/j.media.2022.102559.
 15. A. Galdran, K. Hewitt, N. Ghaffari, J. Kather, G. Carneiro, and M. González Ballester, “Test Time Transform Prediction for Open Set Histopathological Image Recognition,” Jun. 2022. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/pdf/2206.10033.pdf
-16. Microscopes International, LLC. “General Interest: What Are Tiled Tiff (SVS) Files?” Microscopes International Corporate, 16 July 2019, www.microscopesinternational.com/support/kb/article/ngn1266.aspx. www.microscopesinternational.com/support/kb/article/ngn1266.aspx.    
+16. Microscopes International, LLC. “General Interest: What Are Tiled Tiff (SVS) Files?” Microscopes International Corporate, 16 July 2019, www.microscopesinternational.com/support/kb/article/ngn1266.aspx.
 
 ## Github
 * SISH: https://github.com/mahmoodlab/SISH
