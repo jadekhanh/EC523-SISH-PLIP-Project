@@ -27,11 +27,17 @@ The evaluation was conducted on a comprehensive dataset of histological images f
 
 ## References
 [1] C. Chen, M. Y. Lu, D. F. K. Williamson, T. Y. Chen, A. J. Schaumberg, and F. Mahmood, “Fast and scalable search of whole-slide images via self-supervised deep learning,” Nature Biomedical Engineering, vol. 6, no. 12, pp. 1420–1434, Dec. 2022, doi: https://doi.org/10.1038/s41551-022-00929-8. 
+
 [2] M. Lu et al., “Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images,” arXiv (Cornell University), Jun. 2023, doi: https://doi.org/10.48550/arxiv.2306.07831. 
+
 [3] Z. Huang, F. Bianchi, M. Yuksekgonul, T. J. Montine, and J. Zou, “A Visual–Language Foundation Model for Pathology Image Analysis using Medical Twitter,” Nature Medicine, vol. 29, no. 9, pp. 2307–2316, Sep. 2023, doi: https://doi.org/10.1038/s41591-023-02504-3. 
+
 [4] S. Kalra et al., “Pan-cancer Diagnostic Consensus through searching Archival Histopathology Images using Artificial Intelligence,” npj Digital Medicine, vol. 3, no. 1, pp. 1–15, Mar. 2020, doi: https://doi.org/10.1038/s41746-020-0238-2.
+
 [5] S. Kalra, C. Choi, S. Shah, L. Pantanowitz, and H. R. Tizhoosh, “Yottixel -- An Image Search Engine for Large Archives of Histopathology Whole Slide Images,” arXiv (Cornell University), Nov. 2019, doi: https://doi.org/10.48550/arxiv.1911.08748. 
+
 [6] A. Galdran, K. Hewitt, N. Ghaffari, J. Kather, G. Carneiro, and M. González Ballester, “Test Time Transform Prediction for Open Set Histopathological Image Recognition,” Jun. 2022. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/pdf/2206.10033.pdf
+
 [7] Microscopes International, LLC. “General Interest: What Are Tiled Tiff (SVS) Files?” Microscopes International Corporate, 16 July 2019, www.microscopesinternational.com/support/kb/article/ngn1266.aspx. 
 
 ## Github
