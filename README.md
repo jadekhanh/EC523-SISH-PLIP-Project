@@ -16,7 +16,7 @@ MI-Zero employs openly accessible text encoders, specifically BioClinicalBert an
 ## PLIP Image Encoding
 PLIP is a model trained on image-text pairings provided by the OpenPath dataset. It follows a model architecture similar to Vit-B-32, which is widely used for image classification tasks. The encoder determines image embedding vectors from a given input image patch, and the similarity scores of these input embedding vectors are calculated along with the target image embeddings for classification.
 
-## Zero-shot Classification
+## Zero-Shot Classification
 We conducted an evaluation of the image encoders of PLIP and MI-Zero models in the context of zero-shot classification, which involves categorizing previously unseen examples belonging to classes not encountered during training. In this process, a vision-language model is employed, where images are passed through the image encoder, and class prompts are directed to the text encoder. Subsequently, the resulting embeddings are compared within a shared latent space, and the class with the highest score is assigned as the predicted label for the input image. This approach serves as a valuable benchmark for assessing the performance of image retrieval systems. 
 
 ## Improving Experiment on Patch Retrieval
